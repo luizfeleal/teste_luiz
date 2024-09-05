@@ -1,4 +1,4 @@
-# LUIZ COM Z 
+# LUIZ COM Z
  
 ### Summary
 Retrieves information about an HP Retail system
